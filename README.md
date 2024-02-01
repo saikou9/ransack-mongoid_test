@@ -1,7 +1,3 @@
-# Archived
-
-The project is archived.
-
 # Ransack::Mongoid
 
 
